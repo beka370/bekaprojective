@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(163, 209, 252);
+    padding-top: 500px;
+}
+.sila {
+    background-color: white;
+    height: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-left:700px;
+    margin-right: 700px;
+   
+    
+}
+.koe {
+    background-color: rgb(8, 10, 49);
+    color: aliceblue;
+    height: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-right: 700px;
+    margin-left:700px ;
+    
+   
+} 
+.clas {
+    background-color: white;
+    height: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 20px;
+    margin-right: 700px;
+    margin-left:700px ;
+}
+.arial {
+    background-color: rgb(8, 10, 49);
+    color: aliceblue;
+    height: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 20px;
+    margin-right: 700px;
+    margin-left:700px ;
+}
+.qwert {
+    background-color: white;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    margin-right: 700px;
+    margin-left:700px ;
+
+}
+.qwerty {
+    background-color: rgb(8, 10, 49);
+    color: aliceblue;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    margin-right: 700px;
+    margin-left:700px ;
+}
+input {
+    height: 30px;
+}
